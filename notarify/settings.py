@@ -54,6 +54,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://notarify-1122.web.app/"
 ]
 
 ROOT_URLCONF = 'notarify.urls'
